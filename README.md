@@ -7,7 +7,7 @@ I appreciate comments. Shoot me an email at noel_s_cruz@yahoo.com!
 In previous posts, we surveyed and examined steps toward writing a Systick timer using
 register programming. We wrote in ARM assembly and in C. Today we show the CMSIS style.
 
-By the way, the is the name of the previous post, How-to-Write-SysTick-Handler-for-STM32.
+By the way, the previous post is: https://github.com/noey2020/How-to-Write-SysTick-Handler-for-STM32.
 
 CMSIS provides us core and device header and C files. In particular, SysTickConfig is 
 coded from lines 1815-1854  in core_cm3.h. Contrast the CMSIS code to our register 
