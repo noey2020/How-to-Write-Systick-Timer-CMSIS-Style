@@ -4,6 +4,8 @@ How to Write Systick Timer CMSIS Style     July 1, 2020
 
 I appreciate comments. Shoot me an email at noel_s_cruz@yahoo.com!
 
+Hire me!
+
 In previous posts, we surveyed and examined steps toward writing a Systick timer using
 register programming. We wrote in ARM assembly and in C. Today we show the CMSIS style.
 
@@ -49,5 +51,7 @@ Also, it is very helpful to check the docs website https://www.keil.com/pack/doc
 Attached are the files to experiment and have a proof of concept.
 
 I appreciate comments. Shoot me an email at noel_s_cruz@yahoo.com!
+
+Hire me!
 
 Don't forget the newline and happy coding!
